@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none!important;
+    border: none;
+    list-style: none;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+    scroll-padding-top: 5.5rem;
+}
+
+.btn{
+    width: 100px;
+    margin-right: 50px;
+    padding: 13x!important;
+    border-radius: 104px!important;
+}
+
+.navbar-nav{
+    margin-right: 0px;
+}
+
+.navbar-nav li{
+    margin-right: 50px;
+}    
+.navbar-brand{
+    margin-left: 50px;
+}
